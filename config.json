@@ -3,5 +3,5 @@
     "ssl": false,
     "prefix": "/web/",
     "localAddresses": [],
-    "blockedHostnames": ["lukegame.x10host.com"]
+    "blockedHostnames": []
 }
